@@ -1,3 +1,4 @@
 # colectivo25marzo
 repo colectivo martes noche
-Juan Esteban Blandon Sepulveda
+Juan esteban Blandon Sepulveda
+Valeria Salazar Hernandez
